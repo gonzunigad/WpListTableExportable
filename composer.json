@@ -1,5 +1,5 @@
 {
-    "name": "leewillis77/WpListTableExportable",
+    "name": "gonznigad/wp-list-table-exportable",
     "autoload": {
         "psr-4": {
             "leewillis77\\WpListTableExportable\\": "src/"
